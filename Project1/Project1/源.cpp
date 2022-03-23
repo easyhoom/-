@@ -120,7 +120,77 @@
 //	cout << sum << endl;
 //
 //}
-
-
-
+//#include<iostream>
+//using namespace std;
+//int avar;
+//int main() {
+//	int avar;
+//	avar = 25;
+//	::avar = 10;
+//	cout << "local avar=" << avar << endl;
+//	cout << "global avear=" << ::avar << endl;
+//	return 0;
+//}
+//#include<iostream> /*7.指针实现两数排序，小的在前*/
+//using namespace std;
+//int main()
+//{
+//	int a, b;
+//	cin >> a >> b;
+//	int* f;
+//	f = new int;
+//	*f = a;
+//	if (a <= b) {
+//		*f = b;
+//
+//		cout << a << " "<< * f << endl;
+//	}
+//	else if (a >b) {
+//		cout << b <<" " <<* f << endl;
+//	}
+//	delete f;
+//	return 0;
+//
+//}
+//
+//#include<iostream>
+//#include<stdlib.h>
+//
+//using namespace std;
+//void statistics(double a[], int n, double* max, double* min, double* avg, double* stdev);
+//int main() {
+//	double a,b,c,d,e
+//	int n;
+//	
+//	cin >> n;
+//	
+//	int* f = new int[n];
+//	f[n+1]=-9999
+//	f[]
+//	
+//	return 0;
+//}
+//#include<iostream>8.实现求三角函数的近似导数
+//#include<math.h>
+//using namespace std;
+//inline double f(double y);
+//inline double m(double y);
+//inline double n(double y);
+//int main() {
+//	double x;
+//	cin >> x;
+//	cout << f(x)<<" "<<m(x) <<" " << n(x) << endl;
+//	return 0;
+//
+//}
+//inline double f(double y) {
+//	return(sin(y + 0.001) - sin(y - 0.001)) / 0.002;
+//	 
+//}
+//inline double m(double y) {
+//	return (cos(y + 0.001) - cos(y - 0.001)) / 0.002;
+//}
+//inline double n(double y) {
+//	return ((sin(y + 0.001) + cos(y + 0.001) - sin(y - 0.001) - cos(y - 0.001)) / 0.002);
+//}
 
