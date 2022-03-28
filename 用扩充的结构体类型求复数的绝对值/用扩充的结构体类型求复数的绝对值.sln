@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用扩充的结构体类型求复数的绝对值", "用扩充的结构体类型求复数的绝对值\用扩充的结构体类型求复数的绝对值.vcxproj", "{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Debug|x64.ActiveCfg = Debug|x64
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Debug|x64.Build.0 = Debug|x64
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Debug|x86.ActiveCfg = Debug|Win32
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Debug|x86.Build.0 = Debug|Win32
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Release|x64.ActiveCfg = Release|x64
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Release|x64.Build.0 = Release|x64
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Release|x86.ActiveCfg = Release|Win32
+		{73015DD0-F9D6-4A79-8F2F-B3AEE1347C70}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415FB951-2C7E-43FF-AA39-28E5C934F9F4}
+	EndGlobalSection
+EndGlobal
